@@ -1,0 +1,78 @@
+Move Over Campaigns — and Even Content Marketing — a Better Strategy Is Emerging
+Content-led marketing blends storytelling with owned, earned, and paid media to meet this AI-dominated moment. Here’s how to start shifting your strategy.
+May 5, 2026
+Have you ever noticed how much marketing lingo comes from military terms?
+You launch and run campaigns. You conduct guerrilla marketing. You engage targets, open new fronts, and deploy tactics.
+Even the word slogan comes from the Scottish Gaelic “sluagh-ghairm,” meaning “battle cry.”
+When the only way to reach potential buyers was to rent attention from someone else’s distribution — a magazine, a TV network, a billboard — campaigns offered the right organizing unit:
+Concentrate spending in a specific window.
+Hit the audience repeatedly.
+Measure the lift.
+Move on.
+Marketing’s job was to get in front of people who didn’t know your brand existed.
+But campaigns weren’t the strategy. They were necessary workarounds during a time when brands couldn’t reach audiences on their own terms. They were the natural byproduct of a rented-media landscape.
+We don’t call them workarounds, because organizations built the org chart around them. They hired campaign managers, demand-gen leaders, and performance marketers. They bought tools that promised to make the workaround more efficient. They measured the impressions and conversions of a single push, then started over the next quarter.
+Content marketing changed the workaround
+About 15 years ago, the workaround stopped being the default answer.
+The internet — and specifically search — gave brands the ability to acquire audiences they didn’t have to continuously rent.
+Organizations could build owned media properties that were educational, entertaining, and genuine alternatives to paid campaigns.
+B2B companies built thought leadership platforms, online resource centers, email newsletters, and gated content. They adopted the language of media companies — subscribers, programming, newsrooms, content studios, and editorial strategies.
+We called it content marketing, and companies ran it alongside the traditional campaign model. The two operated side by side. It worked.
+Turns out, content marketing was a workaround, too.
+In 2026, we’re three years into the generative AI disruption:
+Display ad CTRs are a fraction of what they were a decade ago.
+Email engagement keeps drifting down.
+45% of buyers use AI for their initial research, and 67% now say they prefer a “rep-free” experience.
+The problem is structural. Better creative won’t fix it. Organizations are outgrowing the workaround to the workaround. Again.
+In the introduction to my 2023 book Content Marketing Strategy, I asked, “What if the entire practice of marketing morphs into what we now call content marketing?"
+I offered a couple of potential answers.
+What I got right: We’ve reached the point where marketing has morphed.
+What I got wrong: I assumed content marketing wouldn’t morph along with it. It did.
+Marketing didn’t morph into content marketing. The two combined into something we can call “content-led marketing.”
+That combination of disciplines now sits at the center of business strategy.
+And, yes, it may be a workaround too.
+The AI era was supposed to kill content, yet …
+Even just a year ago, the consensus was clear: AI would flood every channel with infinite cheap copy.
+Brand investment in editorial would collapse. Content as a discipline — newsletters, podcasts, original reporting — would be drowned in machine output and lose its commercial logic.
+But that’s not exactly what’s happening.
+For years, I described content marketing as the practice of becoming a trusted source of interesting things. I always emphasized the word source — one owned property that an audience would come to and stay with.
+Now the word has changed shape. The trusted source isn’t a single brand property anymore. It’s the brand and the people who represent it — and the way both move from one community to another.
+Multiple sources and multiple interesting things, all carrying the same editorial weight.
+For example, if you wanted to find companies positioned to ignore content marketing entirely, it would make sense to start with the hot technology giants that already command attention by default, e.g., the AI platforms with massive distribution and tech brands that already own the search results.
+Pay attention when those companies start buying specific audience-focused media properties.
+In April, HubSpot acquired Futurepedia — a 17-channel YouTube network plus a newsletter and a 1,000-lesson AI education platform.
+Why? HubSpot didn’t need more reach. It needed a position inside the room where its customers were already learning. The company’s head of marketing said the quiet part out loud: “We are buying this because we know it can generate revenue.”
+Also in April, OpenAI acquired Technology Business Programming Network (TBPN) for a price in the low hundreds of millions. It’s the company’s first acquisition of a media property.
+OpenAI’s stated reason: “The standard communications playbook just doesn’t apply.” The company that’s convinced that it is reshaping the global economy needed something more than a comms team. It wanted editorial credibility in the daily conversation about technology and business.
+The company that built ChatGPT wanted a … wait for it … daily chat show.
+Both examples offer something a resource center or a paid ad campaign can’t: a trusted position inside a specific audience.
+Content with no external distribution doesn’t work today. Distribution without editorial credibility doesn’t work either. These acquisitions merge the two — that’s the point.
+The pattern shows up further down the org chart, too. The Wall Street Journal reported earlier this year that “storyteller” job postings on LinkedIn doubled year over year (registration required). The article noted that Microsoft’s security organization was recruiting a senior director for narrative and storytelling, and USAA was hunting for its fourth staff storyteller.
+Compliance technology firm Vanta made a stir on LinkedIn by paying up to $274,000 for a head of storytelling. Notion announced that it had merged communications, social, and influencer functions into a single storytelling team.
+These companies are buying media. They’re paying for editorial credibility by hiring humans with those skills.
+They’re putting storytelling on the org chart at the senior-director level. The work is moving up to become a strategic function within the business.
+What content-led marketing is
+Content-led marketing is a new way of organizing that extends the owned-media discipline into external distribution (both paid and earned). As in modern media businesses, the brand owns the content (the intellectual property) and owns, rents, or earns its distribution.
+Marketers pay for placements, partner into shows, and earn seats in communities.
+It’s finally time to move on from the campaign-era battle framing. The shift is from “targeting engaged buyers” (a phrase no buyers have ever used to describe themselves) to “reaching in-moment audiences” with real conversations and in real communities where you’ve earned your way in.
+When discovery is AI-mediated, the only way to be considered is to bring creative, editorial weight that travels through content authoritative enough to surface in a chatbot’s answer, distinctive enough for a creator to feature, and trusted enough for a community to recommend.
+AI has raised the bar.
+I wrote earlier this year that the job of a modern brand is no longer to build one large audience, but to earn trusted positions inside many existing ones.
+And, yes, your presence in those rooms has to be earned. But the rooms also have to be reached.
+The campaign-era reflex of paying for distribution doesn’t go away. It gets repurposed. You pay for the seat in the room, and then you earn the privilege of staying there.
+Structural implications of the content-led marketing shift
+In my consulting work, I see a clear pattern. My clients aren’t just running better campaigns. They’re reorganizing — slowly, sometimes painfully — around a media-led backbone that feeds every channel from a single shared content engine.
+They have specific editorial roles. They have publishing cadences tied to business outcomes. They measure influence over time, not last-click attribution. Some have stopped using the word “campaign” altogether.
+You don’t have to start there. But you do have to start.
+Four places you can begin right away:
+Audit your language. If every quarterly plan opens with “What campaigns are we running?” you’ve already named the operating model. Try one quarter where the planning question is “What audiences are we serving and what are we publishing for them?” Watch what changes.
+Name an editor. The most common assumption is that scaling content means hiring more writers. But the highest-impact move is to hire a managing editor — a specific person (or team) who owns the editorial calendar, enforces quality, and is accountable for what gets published and to whom. If no one in the org has that title, no one is doing the work.
+Plan distribution alongside content, not after it. The campaign-era reflex is to start with the channel and reverse-engineer the content. PR says, “We need to land an article in the Wall Street Journal,” so you go write something. Demand gen says, “We need a gated whitepaper for the next leads campaign,” so you go write something. In a content-led model, the order reverses. Distribution is part of the editorial strategy from the start. Every piece of content gets a distribution brief at conception: which rooms it needs to land in, which you need to earn, which you pay to enter, and how messages travel from one to the next.
+Stop measuring content like advertising. Last-click attribution will tell you, again and again, that content doesn’t work. Build a measurement model that accounts for influence — assets that contribute to deals six months after publication, audiences that compound, and trusted positions that take quarters to earn and years to lose.
+Meeting this content-led moment
+Campaigns were a workaround. Content marketing was a workaround. Content-led marketing may be marketing’s final form.
+Or it may be the next workaround, and some marketer in 2031 will diagnose it with the same clarity we have about campaigns now. We don’t yet know.
+But content-led marketing is the discipline that this moment requires. And meeting the moment, as honestly as you can, has always been the job.
+In the next Rose-Colored Glasses column, I’ll show you what a content-led operating model looks like, including the team structures, planning cadence, budget allocation, and measurement model — the architecture, in other words, of an organization in which content and media buying (distribution) are one discipline.
+It’s your story. The content and the distribution pathways you build to tell it will determine what your brand becomes. Build them well.
+Subscribe to workday or weekly CMI emails to get Rose-Colored Glasses in your inbox each week.

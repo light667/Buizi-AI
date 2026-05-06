@@ -1,0 +1,235 @@
+Key Takeaways
+- Keyword research is the process of finding and analyzing the search terms your audience uses to determine which ones are worth targeting and why.
+- Search intent, keyword difficulty, search volume, and topical authority are the core variables that determine whether a keyword is a viable target for your site.
+- AI Overviews now appear in a significant share of searches and measurably reduce click-through rates.
+- Long-tail keywords carry more weight than ever. They convey highly specific intent and mirror the natural language patterns behind voice and LLM queries.
+- Prompt research is a discipline that sits alongside traditional keyword research. It accounts for how people interact with AI tools, where query structure and user intent differ meaningfully from traditional search.
+Have you been tracking your target keywords, only to watch rankings hold steady while organic traffic falls?
+You’re not imagining it.
+According to SEOClarity, AI Overviews (AIOs) appear for 30 percent of U.S. desktop searches, and according to Ahrefs, that presence alone reduces organic click-through rate (CTR) for position-one results by 58 percent.
+You might think that makes keyword research for SEO less important now, but that couldn’t be further from the truth.
+Your research still matters. What’s changed is the goal. High-volume terms alone won’t cut it anymore.
+You need to identify which keywords still drive clicks and understand how large language models (LLM) prompts are reshaping the demand signals you rely on.
+This guide covers the full research process, updated for how search works today.
+What Is Keyword Research?
+Keyword research is the process of identifying and analyzing the search terms your target audience types into search engines and LLMs. The goal is to determine which terms are worth targeting based on factors like the intent behind a user’s query.
+Intent is the why behind what people search, and it’s an area many teams underinvest in.
+Finding a high-volume keyword is easy enough. The harder part is understanding the true intent behind the keyword. That’s the key to making sure your content satisfies that intent better than what’s already ranking.
+Why Is Keyword Research Important for SEO?
+Creating content without keyword research is a gamble.
+Sure, you might produce something useful. However, without confirming what people are actually searching for and that you have a realistic shot at ranking, you’re spending resources on content that may never be found.
+Keyword research solves for three variables that determine whether a keyword is worth pursuing:
+- Search volume tells you how many people are looking for a term each month. A keyword with zero volume isn’t worth a dedicated page. Search volume alone doesn’t close the case, though. The vast majority (94.74 percent) of keywords receive 10 or fewer monthly searches, proving low-volume, high-relevance terms can still drive traffic that converts.
+- Keyword difficulty tells you how competitive a keyword is based on the authority of the pages currently ranking for it. This is where many teams misjudge their opportunities. A keyword with a high difficulty score might be within reach for a high-authority domain but completely out of scope for a site with limited backlink equity. Targeting beyond your domain’s current authority just adds to your backlog.
+- Topical authority has become increasingly important over the past two years. Google has gotten a lot better at evaluating whether a domain demonstrates depth and consistency within a topic area. Keyword research should inform a content strategy that builds clusters of related content rather than targeting disconnected terms.
+There’s also the AI layer.
+AIOs now appear in a significant share of searches and reshape the value of a keyword depending on whether one shows up.
+Research from Seer Interactive tracking 3,119 informational queries finds that organic CTR dropped 61 percent for queries with AIOs compared to queries without them.
+Notice how a more semantic long-tail keyword for the same subject produces a Google AIO versus a product-based search:
+Source: Google.com
+Source: Google.com
+See how small differences in keywords can drastically change your results? This is why doing proper keyword research is important.
+Long-tail keywords are more likely to trigger AIOs, which means users get their answer without clicking through.
+That’s worth knowing, but it’s not a reason to abandon those keywords. Flag them during analysis and see where they fit in your broader strategy.
+Why Search Intent Is Important for Keyword Research
+Search intent is the underlying goal behind a query.
+Google organizes intent into four broad categories:
+- Informational (users want to learn something)
+- Navigational (users are looking for a specific site or brand)
+- Commercial (users are comparing options before a purchase)
+- Transactional (users are ready to buy or act)
+Intent type is a big deal because Google matches results to intent.
+An e-commerce product page won’t rank for a query that Google interprets as informational. A how-to article won’t win for a transactional query where users want a product listing.
+No amount of optimization compensates for a content-to-intent mismatch.
+Use keyword research for SEO to verify intent before you commit to a content format. The fastest way to do this is to run the keyword in Google and see what’s ranking.
+If listicles dominate page one, that’s what Google thinks the searcher wants. If product pages own the top positions, a blog post isn’t going to break through.
+“What sort of things do they search for during the awareness, research, and transaction phases of their buying journey? Target each of these clearly in different areas of the website by bucketing groups of terms into these different intent groups,” explains William Kammer, Vice President of SEO at NP Accel.
+Bucketing your keyword list by intent before mapping keywords to pages is one of the most practical things you can do to make sure your SEO efforts match how your audience actually moves through the funnel.
+Prompt Research and AI Visibility
+Traditional keyword research focuses on what people type into Google.
+Prompt research focuses on how people interact with AI tools like ChatGPT, Perplexity, and Gemini. The patterns across them are quite different.
+When someone searches Google for “email marketing tools,” they enter that short phrase (or a close variant) and scan a list of results.
+When someone asks ChatGPT the same question, the query looks more like this: “I run a small e-commerce business, and I’m looking for an email marketing tool that integrates with Shopify and has automation features. What would you recommend?”
+The intent might be the same, but the structure and the specificity are completely different.
+LLMs take these longer queries and break them down into three key components:
+- Persona: Defines who the user is and helps the LLM tailor the response to them
+- Context: Identifies the user’s specific needs and narrows the scope of the answer
+- Question: The actual “ask” contained within the query defines the LLM’s output
+Source: Claude.ai
+This structural difference affects your content strategy.
+LLMs synthesize information from multiple sources to generate a response. They evaluate content for credibility and depth.
+A page optimized around a head keyword might rank well in Google but never appear in an LLM response if it doesn’t fully answer the underlying question a user would actually ask.
+Prompt research is the practice of identifying the underlying questions within the full, natural-language queries people use when interacting with AI tools and the keyword-related topic clusters those queries reveal.
+Think of it as keyword research for a different interface. LLMs use a process called query fan-out, breaking out a single user prompt into multiple sub-queries to retrieve information. That means your content needs to answer not just the surface question but the related ones surrounding it.
+A quarter of search volume has already shifted toward AI-driven chatbots and answer engines, according to Gartner.
+That shift is gradual, but it’s not stopping. Get ahead of it now by building prompt research into your workflow alongside traditional keyword research.
+How to Do Keyword Research
+Good keyword research starts with the same core process regardless of where you’re starting. Here’s how to work through it, whether you’re building a content strategy from scratch or auditing an existing one.
+1. Revisit Your SEO Goals
+Before you open a keyword tool, get clear on what you’re trying to accomplish. Your keyword strategy should follow from your business goals, not the other way around.
+A site prioritizing revenue will have a different keyword mix than one focused on growing organic traffic volume. A brand building topical authority in a new vertical needs different content targets than one trying to hang on to existing rankings.
+Your objectives will dictate the metrics you optimize for and which parts of the keyword funnel you invest in first.
+Three common goal types shape keyword priorities:
+- Conversion-focused goals call for commercial and transactional keywords. These terms sit at the bottom of the funnel and carry strong purchase or sign-up intent. They also tend to have higher keyword difficulty. That means traffic volumes are often lower, but the quality is high.
+- Traffic-growth goals point toward informational keywords with higher search volumes. These terms attract users earlier in the funnel and are generally easier to rank for, though they convert at lower rates.
+- Topical authority goals are where keyword clusters shine. These are groups of semantically related terms that together signal depth of expertise to Google. The cluster approach is a longer-term play, but it’s often the only sustainable way to rank for the high-difficulty terms in competitive verticals.
+Keep your competition in mind as you match keywords to goals, too.
+If a transactional keyword is out of reach for your domain right now, targeting it could hurt your conversion goals and waste resources. A smarter move is finding long-tail keywords around the same seed and intent as a backdoor into that topic.
+2. Keyword Discovery
+Keyword discovery is where you build a broad list of potential targets before narrowing it down during analysis. A lot of teams spend too much time here without a clear method. Here’s one that works.
+Start by mapping your core topic areas from your audience’s perspective. Consider their pain points and the industry terminology they naturally use. These become your seed keywords, the starting points you’ll expand through tools.
+From there, enter your seed keywords into a keyword tool.
+My SEO tool, Ubersuggest, has a Keyword Ideas feature that gives you dozens of variations to shape the focal point of your content.
+Here’s what it delivers for the seed keyword “hiking boots”:
+Source: https://app.neilpatel.com/en/ubersuggest/keyword_ideas/
+Run enough seed keywords through the tool to build a list of hundreds of candidates before you start cutting.
+Your competitors are a valuable third-party source, too. Pull competitor domains into Ubersuggest’s Keywords by Traffic feature to see which keywords are driving traffic to their pages. This surfaces real gaps in your strategy rather than theoretical ones.
+Here’s what you get when you search my domain, neilpatel.com.
+One caveat to note is that tools may not yet have reliable volume data for trending or emerging topics.
+Jonathan Hoffer, SEO Manager at NP Digital, notes that “in the case of new trends, they might not appear in a tool, so you’ll have to check social media or forums to see if something is trending.”
+Long-Tail Keywords
+Long-tail keywords are search phrases of three or more words. They carry lower search volumes than head terms, but they’re more specific. That means they face less competition and tend to attract users with clearer intent, which often translates to higher conversion rates.
+“Hiking boots skechers” illustrates the point well. The difficulty score is lower than our seed keyword phrase, meaning it’s easier to rank for.
+As you can see below, Ubersuggest rates “hiking boots” 39 in SEO difficulty vs. 27 for “hiking boots skechers.”
+That keyword is still valuable, though, because someone typing “hiking boots skechers” probably knows exactly what they want to buy. That means the odds are good that they’re close to a purchasing decision.
+A page that directly addresses that particular brand is far more likely to rank and convert than a generic “hiking boots” page ever would for that searcher.
+The value of long-tail keywords goes beyond traditional SEO.
+For starters, voice search queries are naturally long-tail. They’re phrased the way people speak in real life rather than in typed shorthand.
+Someone typing might enter “hiking boots waterproof.” The same person using voice search asks, “What are the best waterproof hiking boots for wide feet?”
+LLM prompts follow the same conversational pattern. A user asking an AI assistant a question phrases it the way they’d phrase it to a knowledgeable colleague.
+Targeting long-tail keywords in these cases gives you the best shot at matching how your audience searches.
+Local Keywords
+Local keyword research follows the same core process as broader keyword research. There’s one important distinction, though: Potential competitors and search intent are filtered through geography.
+Someone searching “pizza delivery” in Santa Monica isn’t looking for the same results as someone searching the same term in Chicago. Both are looking to get pizza delivered, yes, but the keyword effectively becomes a different target once location comes into play.
+Don’t limit yourself to a single location modifier.
+A pizzeria in Santa Monica can target “pizza delivery Santa Monica” and neighborhood-level variants like “pizza near the pier.” Service-specific combinations like “late night pizza delivery Santa Monica” work, too.
+Each geographic variation is a keyword opportunity in its own right.
+Local keywords tend to have lower difficulty than non-local ones, but that doesn’t make them uniformly easy.
+Local rankings don’t run on content alone. Your Google Business Profile and the consistency of your name, address, and phone number (NAP) across the web factor in, too.
+3. Keyword Analysis
+By the end of discovery, you’ll have a long list of potential keywords. Keyword analysis is how you cut it down to a working set.
+The primary metrics to evaluate are search volume, keyword difficulty, and search intent alignment.
+A tool like Ubersuggest lets you organize all your candidates in a Keywords List and sort by these variables simultaneously, which is faster than evaluating them one at a time.
+The right search volume floor depends on your goals. Don’t automatically filter out low-volume keywords. A term with 50 monthly searches and clear commercial intent can be worth more than a 5,000-volume informational keyword with no realistic conversion path.
+For keyword difficulty, calibrate your threshold to your domain authority.
+Sites with limited backlink equity are usually better off focusing on terms with difficulty scores under 40. Higher-authority domains have more room to compete for scores of 50 and above. What counts as realistic is site-specific.
+After sorting by the numbers, run a Google search on each shortlisted keyword and analyze the search engine results page (SERP) directly. Your goal is to answer two questions:
+- Does the content format match what you can produce? If every top-ranking result is a detailed comparison guide and you’re planning a product page, that’s an intent mismatch.
+- Does your domain belong in this conversation? Look at who’s ranking. If the top results are all major publications with significantly more backlink equity than your site has, be realistic about your timeline and consider adjusting your target keyword.
+You should also consider whether your target keyword generates an AIO. A keyword where an AIO is present doesn’t make it a bad target, but it does change how you measure success. For those terms, landing an AIO citation matters as much as ranking position.
+Nikki Brandemarte, Sr. SEO Strategist and Local SEO Team Lead at NP Digital, offers this guidance: “Pay attention to content coverage for specific topic areas. For example, are your SERP competitors publishing multiple blogs that explain the basics of a topic, or a single comprehensive guide? This can help pinpoint gaps in topical authority.”
+By the end of analysis, every keyword on your shortlist should clear these bars:
+- Measurable search volume
+- Relevant to your brand or industry
+- A difficulty score your domain can realistically compete for
+- Clear search intent alignment
+- A content format your site can actually produce
+4. Keyword Targeting
+Once you have a refined keyword list, you need to decide which keywords to pursue first and which URLs to target them with.
+For prioritization, start with keywords that combine low difficulty with reasonable volume. These are your highest-probability wins. They won’t always be the most valuable keywords on your list, but early traction validates the strategy and gives you ranking data to learn from.
+From there, move to high-intent commercial keywords. These carry more difficulty but have the most direct line to revenue. A few hundred visitors from a well-targeted commercial keyword can generate more return than thousands of visits from an informational term.
+Finally, layer in top-of-funnel, high-volume informational terms. These are the awareness plays. They’re hard to rank for and have longer time horizons, but they’re important for building topical authority over time.
+When assigning keywords to pages, be deliberate about avoiding keyword cannibalization.
+Cannibalization happens when two or more pages on your site target the same or nearly identical keywords. This splits ranking signals, creating competition between your own content.
+It’s one of the more common structural problems in mature content programs. Audit for it before you start mapping new keywords to existing pages. If you find two pages competing for the same term, consolidate, redirect, or clearly differentiate the content before adding more.
+5. Keyword Optimization
+With your keyword targets set, optimization is how you signal relevance to search engines without sacrificing content quality. Here’s a rundown of what current best practices look like.
+- Title tag and H1: Your primary keyword belongs in both. This remains one of the most consistent on-page ranking signals. According to Rankability, 93.5 percent of page-one results use their target keyword in the title or H1.
+- URL slug: Use a clean, keyword-inclusive URL. Research shows that URLs that include the target keyword see up to 45 percent higher click-through rates than those without.
+- Meta description: Your meta descriptions don’t directly influence rankings, but they do influence clicks. The goal is to include the keyword naturally and give searchers a clear reason to click.
+- Body copy: Use your keyword and related semantic terms throughout, but write it for the reader first. Resist the urge to stuff keywords. Density has declined as a ranking factor. Pages in the top 10 today have significantly lower keyword density than those that ranked well even a few years ago.
+- Image alt text: Include your keyword in at least one image’s alt attribute on the page. Alt text serves accessibility and SEO purposes.
+- Structured data: Schema markup helps search engines and AI systems understand the content type and context of your page. For competitive keywords, structured data improves your eligibility for featured snippets and AIO citations.
+- Content completeness: For any keyword you’re seriously targeting, your content needs to address the topic more thoroughly than what’s currently ranking. That doesn’t mean longer for its own sake. Your piece can be shorter and still outrank what’s currently there if yours is more helpful.
+For highly competitive keywords, link building to the specific page will almost certainly be part of the equation. Rankings alone won’t hold in a tough vertical without external authority pointing at the page.
+6. Keyword Tracking
+Systematically tracking your keyword research is what separates good SEO results from great SEO.
+Rankings change, and competitor or algorithm adjustments can swiftly change the playing field. A tracking system catches those changes before they become problems.
+Typically, keyword research tools include a rank-tracking feature that monitors your keyword positions daily and displays ranking distribution or visibility trends across your tracked keyword set.
+Here’s what Ubersuggest’s Rank Tracking feature looks like:
+You can track performance separately by desktop and mobile, which is a big plus given how differently Google’s SERPs behave across devices.
+The core metrics to monitor are:
+- Ranking position
+- Organic impressions via Google Search Console
+- CTR
+CTR is especially worth watching for any keywords where AIOs are present.
+A stable ranking alongside a declining CTR is a signal that an AIO has entered the picture, but don’t panic. This is less a traffic problem and more an opportunity for content optimization. You may be able to go back and refresh that page with long-tail keywords that more properly align with AI search.
+For broader keyword programs, tracking AI citation frequency is increasingly worth adding to your reporting stack. Brands cited in AIOs earn 35 percent more organic clicks and 91 percent more paid clicks than brands that aren’t cited on the same queries, according to Seer Interactive.
+Citation is now a meaningful key performance indicator (KPI) alongside position.
+The Prompt Research Process: Is It Any Different?
+The short answer is yes. Prompt research differs somewhat from traditional keyword research, but the fundamentals overlap.
+Prompt and keyword research share the same goal, though: to understand what your audience is looking for and create content that satisfies that need.
+The difference is the interface.
+LLM users don’t type compressed keyword strings. They ask full questions and often include specific constraints.
+The prompt below breaks down how each component works together. Notice how far it goes beyond a simple keyword search:
+Source: https://www.thevccorner.com/p/guide-writing-powerful-ai-prompts
+These added layers change what a good target keyword looks like.
+Here’s a practical approach to building prompt research into your workflow:
+- Start with your existing keyword list. Take your top commercial and informational keywords and expand them into full-sentence questions. “Email marketing tools” becomes “What’s the best email marketing tool for a small business that already uses Shopify?”
+- Mine community forums and Q&A platforms. Reddit threads and Quora discussions show you the actual language your audience uses when asking for help. These tend to be longer and more detailed than keyword tool data, and that specificity is precisely what LLM prompts look like.
+- Use your keywords in LLMs directly. Type your target topics into ChatGPT or Perplexity and observe their results and how they phrase follow-up questions. Those follow-up questions represent the sub-queries the model identified as relevant, which are also the content gaps your pages can fill.
+- Monitor brand mention prompts. Tools like Profound track which prompts lead AI engines to mention your brand or your competitors, and how those mentions change over time. This is the closest thing to rank tracking for LLM visibility.
+The content strategy implication is to prioritize completeness.
+Content scoring highly on semantic completeness appears in AI-generated answers at a rate 340 percent higher than content that scores lower, according to recent AIO research data.
+LLMs reward content that fully addresses a topic, which is the same thing Google has been rewarding since the Helpful Content updates. The convergence is not coincidental.
+Bonus: More Ways to Find Keywords
+As your skills grow or you take on more competitive keywords, the tools below are worth adding to your stack to spot opportunities you might otherwise miss. You’ve already seen a little of what Ubersuggest can do, so let’s start there.
+Ubersuggest
+One sometimes-overlooked part of Ubersuggest is the Keyword Ideas feature’s ability to filter keyword results by suggestions, related terms, questions, prepositions, and comparisons.
+Each filter uncovers a different angle on how people search for your topic (as shown in our hiking boots example).
+The Questions modifier is particularly useful for content planning.
+The Questions filter alone gives you 120 variations for “hiking boots.” They range from informational queries like “how long do hiking boots last” to commercial ones like “where to buy hiking boots near me.”
+Each has a potential content angle with its own intent and difficulty profile.
+It shows you exactly what people are asking about a keyword, giving you ready-made content angles and FAQ targets.
+Ahrefs and Semrush
+Ahrefs’ Keywords Explorer provides full SERP analysis in one dashboard.
+One feature worth highlighting is the AI visibility filter in Ahrefs’ Site Explorer, which shows exactly which of your ranking keywords are currently triggering AIOs. That filter turns AIO exposure into a specific, actionable list of keywords you can monitor more closely.
+Semrush has integrated AI-specific research tools into its platform, too.
+Its tracking functionality enables you to monitor your brand’s performance across ChatGPT, Perplexity, and Google’s search generative experience (SGE) simultaneously. Plus, its AI sentiment feature tells whether AI-generated responses mention your brand positively or negatively.
+For teams building out an AEO strategy alongside traditional SEO, that cross-platform visibility is difficult to replicate manually.
+Many experienced SEOs use multiple tools in parallel, cross-referencing data from Ubersuggest, Ahrefs, and Semrush to build a more complete picture. Because volume figures are estimates and can vary by platform, using multiple tools reduces the risk of making targeting decisions based solely on a single platform’s data.
+AnswerThePublic
+AnswerThePublic generates question-based keyword ideas from a seed keyword. Enter a topic, and the tool maps the questions people are asking about it, organized by preposition and question type.
+The output is useful for building FAQ sections and identifying informational content angles that pure volume-based tools can’t see.
+For example, if you search for “social media marketing,” AnswerThePublic returns questions like “what are the best social media marketing strategies?” and “how to measure ROI in social media marketing?”
+Both are strong long-tail targets with real search demand.
+LLMs and AI Tools
+AI tools have become genuinely useful for scaling keyword research, particularly in the brainstorming and clustering phases.
+Take Claude or ChatGPT. You can rapidly expand a seed keyword into related angles and intent clusters. Use the persona component of your prompt to make them think like your target audience.
+For example, you might ask an LLM to generate the questions a small business owner would ask before buying a product. Or you might dig into the objections they’d have at each stage of the purchase process.
+LLM output isn’t a replacement for tool-based volume data, but it’s a fast way to surface angles you wouldn’t have thought to search for.
+Here’s a sample query I ran in Claude: “What questions would someone ask before buying email marketing software?”
+Source: Claude.ai
+This is just a small snippet of what it returned. The LLM returned questions across a variety of categories, covering the entire buying journey someone might go through when purchasing email marketing software.
+Doing the same could provide you with long-tail keyword opportunities to reach every segment of your target audience exactly where they are.
+Semrush’s AI-powered keyword clustering tools take this further by grouping related keywords by semantic meaning and search intent. Running your keyword list through clustering before mapping keywords to pages can reveal topical gaps and consolidation opportunities that spreadsheet-based sorting misses.
+Of course, you need to keep these tools’ limitations in mind. They’re strong at synthesis and pattern recognition but weaker at providing reliable volume and difficulty data. Use them alongside your keyword tools, not instead of them.
+Search Suggestions
+Search engines themselves are a free, always-up-to-date resource for keyword research. Google autocomplete, the People Also Ask box, and the related searches section at the bottom of the SERP all surface real query patterns from real users.
+Google autocomplete is particularly useful for long-tail discovery. Enter your seed keyword and add a letter:
+Source: Google.com
+Google will suggest several popular phrases, each of which is a data point about what people search with that keyword as a root.
+People Also Ask (People also search for) displays related questions that Google considers topically connected to your query, often revealing adjacent content opportunities worth targeting independently.
+Source: Google.com
+FAQs
+What is keyword research?
+Keyword research is the practice of finding and analyzing search queries to identify which ones are worth targeting with your content. It involves evaluating search volume, keyword difficulty, and the intent behind each query to build a targeted list of terms that align with your site’s goals and domain authority.
+How do I do keyword research?
+Start by defining your goals, then build a list of seed keywords based on your audience’s pain points and your core topic areas. Use a tool like Ubersuggest to expand that list and analyze candidates by search volume, difficulty, and intent. Audit the SERP directly for your top candidates before finalizing your targets. Then map keywords to specific pages, create or optimize content, and track performance over time.
+Can I do keyword research for free?
+Yes. Ubersuggest and AnswerThePublic both offer free keyword data. Google Search Console is also free. If you’re not ready to pay for a tool yet, you can use Google’s built-in search features like autocomplete and People Also Ask (People also search for). Free tools may have volume and feature limitations, but they’re more than sufficient for early-stage research or smaller sites. Paid plans unlock more comprehensive data that you may want to view as you progress.
+What do I do after keyword research?
+After completing keyword research, map your keywords to specific URLs, either existing pages you’ll optimize or new content you’ll create. Prioritize by intent and difficulty, then write or update content to match the search intent behind each keyword. Publish, build links where needed, and track performance in a rank tracker. Keyword research isn’t a one-time task. Revisit it regularly as your domain authority grows and as search behavior evolves.
+Conclusion
+Keyword research has always been the foundation of SEO.
+What’s changed is the complexity of the environment you’re researching. AIOs have changed how clicks are distributed. LLMs have introduced a layer of search behavior that operates under different rules entirely. And topical authority now matters as much as optimizing individual keywords.
+The teams navigating this well aren’t researching keywords in isolation anymore.
+They’re combining traditional keyword analysis with prompt research and monitoring AI citation alongside ranking position. They then use that research to build content strategies around topic clusters rather than individual terms.
+The process I’ve outlined here covers all that. If you want to go deeper on implementation, my complete SEO checklist walks through how keyword research connects to the rest of your optimization program.
+If you’d rather have an expert team handle the execution, NP Digital’s SEO consulting services are built for exactly this kind of work and dive into keyword research for your site using the process above.
+Unlock Thousands of Keywords with Ubersuggest
+Ready to Outrank Your Competitors?
+- Find long-tail keywords with High ROI
+- Find 1000s of keywords instantly
+- Turn searches into visits and conversions
+Free keyword research tool

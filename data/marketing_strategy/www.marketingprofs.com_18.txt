@@ -1,0 +1,64 @@
+New marketing managers often encounter content programs that need some help.
+Content governance may be unclear, editorial consistency non-existent, with nary a content roadmap in sight.
+But this can be a perfect opportunity for you to make an impact.
+Here are seven steps to help you launch a successful content program from scratch.
+1) Listen and Observe
+You may be eager to jump in and start affecting change, but taking time to pause will benefit you in the long run. Use the "as is, to be" business process management model to capture the current situation (as is), the ideal situation (to be), and the processes that underlie your organization's operations.
+Start with the "as is" by simply observing. Go on a fact-finding mission.
+- Interview people across the organization and ask about their pain points so you can find out what is and is not working for them.
+- Perform an audit of any existing content and review its usage and impact.
+- Capture how teams collaborate and how information flows throughout the organization.
+When you're ready, move to the "to be" phase by crafting a vision map.
+Use your insights to draw a vision for success, then obtain buy-in to align the appropriate parties. Stakeholder mapping or RACI charts can help determine who owns execution, who gets informed, who gives input, who you'll collaborate with, and who gives final approval.
+2) Learn the Company, Product, Market, and Audience
+Start by learning—and documenting—the ins and outs of the company. Work with stakeholders as needed to clarify questions and gain consensus if any information seems unclear or contradictory across departments.
+- Determine the company's mission, vision, and values.
+- Define your product and service offerings. Who are your competitors for each? What's your value proposition for each? Explore your solutions as a consumer would.
+- Perform a SWOT analysis of the company's strengths and weaknesses against market opportunities and threats.
+- Get to know your audience. Create ideal customer profiles (ICPs) and buyer personas if they don't exist. Plot a customer journey map or funnel graphic that portrays all current audience touchpoints.
+Discovery and creation processes can be illuminating as you explore the ways information is captured or shared, how often it changes, various cross-team perspectives, and find where gaps exist or standardization is needed.
+3) Establish a Brand Identity
+If your new company does not have a brand guide, create one. Consider:
+- Corporate communications: mission, vision, values, audience, competitors
+- Messaging and editorial guidelines: story, voice, tone, style, taglines, key messages
+- Design/visual identity: logo, color palette, imagery
+Set expectations for how brand guidelines will be used, even if it's only internal to your team.
+You may need to convince senior executives of the importance of documenting your brand identity. Don't shy away from having a conversation now that will set the program up for success in the future. Navigating these conversations can set a precedent for how strategic marketing choices will be made.
+Bring your expertise to the table—show up with data, ideas, and confidence. Empathize with their concerns, then acknowledge that a brand guide is non-negotiable, and give it the time and attention it deserves.
+4) Explore Resources and Goals
+Sometimes resources and goals go hand in hand, and sometimes one drives the other. You'll need to feel it out.
+Are there certain metrics you need to deliver on? Log these metrics and explore the resources and systems you need to execute strategically, capture data, and track progress.
+Or do you already have resources, but goals have not been established? In this case, sort through your resources to create meaningful objectives based on what you can realistically achieve.
+5) Map Program to Channels to Outcomes
+Visuals work well for creative leaders, and they give executives a concrete way to understand your strategies and plans. Draw out the programs you can realistically commit to, then map out the next layer—the channels that will support your brand identity and achieve your goals that bring you closer to your shared vision.
+Align your plan with your brand identity and audience preferences. Make sure you have the resources to deliver and know what you'll need to say no to so you can accomplish your goals.
+This is where the previous steps come together in perfect harmony. This is also usually where you produce a tangible plan you can share with the appropriate stakeholders if needed.
+If you want to show your team's progress, you could create new versions of the materials you created in the discovery phase to illustrate changes, perhaps with a revised funnel or customer journey map.
+6) Create a Content Calendar or Roadmap
+Next, create a content calendar or roadmap to drive and organize execution for your team. This looks different for every team, so find what works for you.
+You can start broad with a quarterly structure, then you can get more specific with task-based project deliverables, complete with frameworks and messaging documents per campaign. Build the roadmap slowly with your team, train them on their roles and the importance of each, and encourage them to own the roadmap.
+As your roadmap evolves, templatize what you can. For example, I created an Excel spreadsheet when I started a content team years ago. When I tried to shift to a more sophisticated PMO tool, my team preferred the simple spreadsheet. We still use a Google Sheet with columns that denote format, internal vs. external, purpose, project, deliverable, status, owner, date assigned, notes, link, date due, and date completed. It also has a "How to Use" tab for clarity.
+This roadmap is only for your team. If you need a higher-level visual for cross-team collaboration, use the resource created in step five, or try a Gantt chart.
+7) Establish How You Want Your Program to Work
+Once you have the necessary structure and process for your program, you need to determine how it works for your team and across the company.
+Identify who can create assignments.
+Assignments will likely come from a combination of your team, your boss, the sales team, etc. But you should know what those requests will look like and what takes precedence.
+If you want to turn your team into an ideation machine, consider setting up a brainstorm program to train your team on how to generate ideas, empowering them to own the content ideation process.
+If you want input from other teams, create and share a digital form. I called mine an "idea submission form" so people knew they were submitting ideas that could become content assets after discussing context, positioning you as a strategic partner (not an order taker). Build a vetting process into the form by including questions about audience, goal, usage, and importance, communicating what matters and training others to consider their ask strategically instead of demanding a narrow-minded solution.
+Identify what the review process will look like.
+When does design come into the process? How strict will timelines be? Consider the team culture you want to foster and how you will balance ensuring high levels of excellence, supporting overarching business goals, and empowering your team members to feel fulfilled.
+Determine how content will be shared.
+Create a system for sharing content across the company if needed.
+Over my 15 years running marketing teams, I've used everything from formal CMS libraries to simple spreadsheets. My current team uploads resources into WordPress to generate links, then adds those links into a company-wide Google Sheet that categorizes content based on funnel stage, lead warmth, publication date, topic, format, and other key parameters. We then share context and access in a Slack channel dedicated to content updates.
+Determine how you're going to announce and share content with the company to promote widespread adoption and engagement.
+Define what content maintenance will look like.
+How often will you audit your content? If your company changes a strategy, message, or offering, what gets updated, and how?
+You can figure this out as you build your program, but once you find something that works, embed it into the process. Templatize and systemize what's repeatable, freeing up your team to be strategic and creative.
+Bring Your Content Program to Life
+There's no silver bullet to marketing management. Every organization is different with unique content needs.
+If you can approach your role with empathy, curiosity, and strategic understanding, you can craft and nurture a content program with built-in structural integrity and sustainability.
+More Resources on Marketing Strategy
+What Recruiters Are Seeing as AI Transforms Marketing Teams
+6 Steps to Kill 80% of Your Content
+From Cost Center to Growth Engine: A Modern Blueprint for Annual Marketing Planning
+The New Marketing Playbook: Why Connection Beats Conversion Every Time

@@ -1,0 +1,136 @@
+# Environments
+venv/
+env/
+ENV/
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Node modules (Frontend)
+node_modules/
+.next/
+out/
+.nuxt/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Data & Models
+data/processed/
+data/raw/
+*.csv
+*.pkl
+*.joblib
+models/
+checkpoints/
+
+# Logs
+logs/
+*.log
+*.log.*
+debug-logs/
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# ChromaDB
+chroma_data/
+.chroma/
+
+# Hugging Face cache
+.cache/hf_transformers/
+huggingface/
+
+# LangSmith
+.langsmith/
+
+# IDX temporary files
+.idx*
+
+# OS specific
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings
+*.iml
+.classpath
+.c9/
+*.launch
+.scala_dependencies
+.worksheet
+
+# Package lock files (for reproducible builds)
+# Uncomment if you want to check in lock files
+# package-lock.json
+# poetry.lock
+# Pipfile.lock

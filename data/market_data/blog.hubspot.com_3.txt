@@ -1,0 +1,264 @@
+Sales plans define who to sell to, how much revenue to generate, and which tactics will close deals. Without one, teams guess at priorities, managers can’t track progress, and revenue targets get missed because no one agreed on how to get there.
+HubSpot’s 2025 Sales Trends Report showed that 67% of high-performing sales teams rate themselves as “very” or “extremely” adaptable to changing conditions, and 91% of these teams maintained or improved their win rates despite economic uncertainty. The difference is in structure. Teams with clear plans can pivot quickly while maintaining momentum.
+But building a sales plan takes work. It requires pulling performance data, defining customer segments, setting quotas, assigning ownership, and documenting the specific initiatives that will drive growth. But the alternative — operating without structure — costs more in missed targets and wasted effort.
+This guide walks through the complete sales planning process, from defining objectives to tracking execution. It covers what belongs in a plan, how to write one that teams actually use, and how to keep it relevant as markets shift. Whether building a first plan or refining an existing one, the frameworks below create the clarity teams need to hit their numbers.
+Table of Contents
+- How to Write a Sales Plan
+- What is a sales plan?
+- Why is sales planning important?
+- Types of Sales Plans
+- Sales Planning Process
+- What goes in a sales plan template?
+- Tips for Creating an Effective Sales Plan
+- Strategic Sales Plan Examples
+What is a sales plan?
+A sales plan outlines a team’s objectives, high-level tactics, target audience, and potential obstacles. It’s like a traditional business plan that focuses on the sales strategy. A business plan lays out goals, while a sales plan describes precisely how they will be achieved.
+Sales plans often include information about the business’s target customers, revenue goals, team structure, and the strategies and resources necessary for achieving its targets.
+Free Sales Plan Template
+Outline your company's sales strategy in one simple, coherent sales plan.
+- Target Market
+- Prospecting Strategy
+- Budget
+- Goals
+Download Free
+All fields are required.
+Form not available
+Why is sales planning important?
+A structured sales plan aligns teams around shared goals, defines clear accountability, and establishes the metrics that matter. It gives reps a roadmap for hitting quota and gives leadership visibility into what’s working and what’s not. Sales planning creates structure in an otherwise chaotic process. Without a plan, reps work from gut instinct, managers can’t track progress, and teams miss revenue targets.
+The difference comes down to execution: Planned teams know what to prioritize, when to course-correct, and how to replicate success across the organization. The tangible benefits of sales planning are clarity and direction for the team, smart resource allocation, predictable revenue streams, and improved team performance.
+Provides Clarity and Direction
+Sales planning removes ambiguity about what needs to happen and when. A documented plan defines revenue targets, key accounts, priority activities, and success metrics for every rep and manager. This clarity prevents reps from chasing low-value opportunities or duplicating effort across the team.
+Without a plan, sales teams operate reactively — responding to whatever comes in rather than driving intentional progress toward goals. Even 54% of sales professionals say selling has been harder this year than before, facing challenges like inflation, lack of high-quality leads, and longer deal cycles. Structured planning helps teams navigate these obstacles by defining clear priorities and measurable actions rather than leaving success to chance.
+Planning forces teams to prioritize. It answers critical questions:
+- Which accounts deserve the most attention?
+- Which activities correlate with closed deals?
+- How should resources shift when market conditions change?
+When reps understand their territory, their quota, and the specific actions that move deals forward, they spend less time figuring out what to do next and more time actually doing it.
+Enables Smart Resource Allocation
+Sales planning ensures resources flow to the highest-impact opportunities rather than spreading teams thin across every possible deal. A well-designed plan identifies which territories, accounts, and segments deserve priority attention based on potential revenue, win probability, and strategic value.
+Without planning, resource allocation defaults to whoever asks loudest or whatever deal lands first. This reactive approach wastes time on low-fit prospects while high-value accounts get neglected. Planning creates discipline around where reps invest their limited selling hours.
+Resource allocation also extends beyond individual reps. Sales leaders must decide how many people to assign to each territory, which enablement content to create, and where to invest in technology. Planning provides the framework to make these decisions strategically rather than intuitively.
+Creates Predictable Revenue Streams
+Structured sales planning gives leadership visibility into future revenue based on pipeline health, historical conversion rates, and activity levels. When teams track these metrics consistently, they can project quarterly outcomes with confidence rather than hoping deals close on time.
+The cost of unpredictability shows up in deal execution. HubSpot’s 2025 Sales Trends report showed that 28% of sales professionals say the sales process taking too long is the biggest reason prospects back out of deals. With an average of five decision-makers involved in every sales process today, deals stall when teams don’t have systems to manage complexity. Without a plan to manage pipeline velocity and identify bottlenecks early, deals stall and forecasts miss by wide margins.
+Forecast accuracy improves when teams establish baseline performance metrics. The average sales win rate sits at 21%, with a close rate of 29%, according to HubSpot. Teams that track these numbers can identify problems early — if win rates drop from 21% to 15%, managers know to intervene before the quarter ends. Predictable revenue requires understanding what normal looks like, then building systems to maintain or improve those benchmarks. Planning creates that foundation.
+Boosts Team Performance and Morale
+Clear sales plans give reps confidence they can hit their numbers. When goals feel arbitrary or paths to quota remain unclear, motivation suffers. A documented plan breaks down annual targets into manageable monthly milestones, showing reps which accounts to prioritize, how many calls to make, and which prospects warrant face-to-face meetings versus email outreach.
+Transparency matters for retention. When salespeople can see how they’re tracking against goals and compare their metrics to team averages, they know where they stand and what to improve. This visibility reduces anxiety and builds accountability.
+Plans also clarify role expectations during onboarding, which shortens ramp time. Structured plans help teams navigate difficulty by defining what success looks like, even when market conditions tighten. Reps perform better when they know what’s expected and have a roadmap to get there.
+Pro tip: Using a sales platform like HubSpot’s Sales Hub makes sales planning and monitoring easy with its forecasting tool, pipeline tracking, and reporting capabilities.
+Types of Sales Plans
+Sales plans address specific business challenges. Some focus on individual performance and onboarding. Others coordinate teams around launches, expansions, or departmental alignment. The plan a team chooses depends on what they’re trying to accomplish. These five types of sales plans address different revenue goals and operational needs: 30-60-90 day sales plan, marketing-alignment sales plan, business development strategic sales plan, market expansion plan, and new product sales plan.
+1. 30-60-90 Day Sales Plan
+A 30-60-90 day sales plan breaks down goals into three monthly phases. The first 30 days focus on learning — understanding the product, team structure, and sales process. Days 31-60 shift to application, where reps begin executing calls and demos with support. The final 30 days emphasize independence and quota attainment.
+The 30-60-90 day plan works best for new hires who need clear milestones during their ramp period. It also helps sales managers track onboarding progress and identify when reps need additional coaching.
+Companies launching new products or entering unfamiliar markets benefit from this structure, too. The time-boxed approach forces teams to prioritize learning, testing, and scaling without getting overwhelmed.
+When to use it: Onboarding new sales reps, launching new products, entering new markets, or establishing baseline performance metrics for a role.
+Key benefits: A 30-60-90 day sales plan reduces ramp time, creates accountability checkpoints, prevents information overload, and gives managers a clear framework for coaching and course correction.
+2. Marketing-Alignment Sales Plan
+A marketing-alignment sales plan synchronizes messaging, lead qualification, and campaign execution between marketing and sales teams. It establishes shared definitions for ideal customer profiles, buyer personas, and lead scoring criteria.
+The plan typically includes joint planning sessions, agreed-upon service level agreements (SLAs) for lead follow-up, and regular feedback loops where sales shares insights from customer conversations.
+A marketing-aligned plan addresses the revenue leak that happens when marketing generates leads that sales can’t close because messaging doesn’t match buyer expectations. When both teams work from the same playbook, conversion rates improve, and customer acquisition costs drop.
+When to use it: When sales and marketing operate in silos, when lead quality is inconsistent, when messaging across touchpoints feels disjointed, or during a rebrand or repositioning effort.
+Key benefits: A marketing-alignment sales plan improves lead quality, shortens sales cycles, increases conversion rates, reduces friction between departments, and creates a unified customer experience from first touch to close.
+3. Business Development Strategic Sales Plan
+A business development strategic sales plan focuses on generating new revenue streams through partnerships, channel relationships, sponsorships, and strategic outreach. Unlike traditional sales plans that target individual buyers, this approach emphasizes building relationships with organizations that can unlock access to new customer segments.
+The plan outlines partnership targets, event sponsorship criteria, networking goals, and KPIs like the number of qualified partnership conversations or revenue generated through channel partners. This matters for long-term growth because it diversifies revenue sources beyond direct sales. Companies that rely solely on outbound prospecting or inbound leads hit growth ceilings. Strategic business development breaks through those limits.
+When to use it: When direct sales alone won’t meet growth targets, when competitors dominate existing channels, when entering enterprise markets that require trusted referrals, or when building an ecosystem strategy.
+Key benefits: A business development strategic sales plan opens new revenue channels, builds strategic relationships, creates competitive differentiation, accelerates market entry, and provides leverage through partner networks that amplify reach.
+4. Market Expansion Plan
+A market expansion plan outlines the strategy, resources, and metrics for entering a new geographic territory or customer segment. It addresses distribution logistics, regulatory requirements, competitive positioning, and go-to-market timing.
+The plan includes market research on buyer behavior, pricing analysis, channel partner identification, and territory mapping. It also accounts for operational factors like time zone coverage, language support, and local compliance.
+Market expansion fails when teams treat new territories like existing ones. Different regions have different buying patterns, competitive dynamics, and operational requirements. This plan forces teams to adapt rather than assume.
+When to use it: When expanding into new geographies, when targeting a new industry vertical, when shifting from SMB to enterprise (or vice versa), or when launching in markets with different regulatory environments.
+Key benefits: A market expansion sales plan reduces expansion risk, clarifies resource requirements, establishes realistic timelines, prevents costly mistakes, and creates a repeatable playbook for future market entries.
+5. New Product Sales Plan
+A new product sales plan focuses exclusively on driving revenue from a product launch. It includes competitive positioning, pricing strategy, channel partner recruitment, sales enablement materials, and launch campaign coordination.
+The plan typically runs for 90–180 days and includes specific targets for early adopter acquisition, customer feedback collection, and iterative messaging refinement based on what resonates in real sales conversations.
+Product launches fail when sales teams aren’t prepared to sell something new. Reps default to pitching existing products they understand, and the new offering stalls. This plan ensures the launch gets dedicated focus and resources.
+When to use it: When launching a new product or major feature, when entering a new product category, when repositioning an existing offering, or when testing a new pricing or packaging model.
+Key benefits: A new product sales plan ensures focused execution, aligns cross-functional teams, accelerates time to revenue, captures early market feedback, and prevents new products from getting deprioritized against established offerings.
+Sales Planning Process
+Sales organizations frequently adjust course without clear direction. Teams spend more time reacting to missed targets than executing against clear benchmarks.
+A structured planning process establishes which accounts deserve focus, which activities drive closed deals, and how to reallocate resources when conditions shift. Plans define ownership for each revenue target and create measurement points before problems compound.
+The steps below outline how to create a sales plan that guides daily decisions rather than sitting unused after kickoff.
+Step 1: Gather sales data and search for trends.
+Start by pulling 12–24 months of performance data from the CRM: win rates by segment, average deal size, sales cycle length, and conversion rates at each pipeline stage. Look for patterns. Which lead sources produce the highest close rates? Which accounts generate the largest deals? What activities appear most often before won opportunities?
+These patterns reveal where to concentrate prospecting effort, how to structure territories, and which behaviors to emphasize in coaching. Use them to inform quota distribution and resource allocation decisions.
+Step 2: Define objectives.
+Break company revenue targets into specific sales goals. Annual numbers become quarterly targets, then get assigned across teams, territories, and segments based on historical performance and market opportunity.
+The plan should answer: How much revenue must each segment generate? Which teams own new business versus expansion? What growth rate does each territory need to hit?
+Step 3: Determine metrics for success.
+Choose three to five leading indicators that predict whether the team will hit revenue targets. Pipeline coverage ratio, average deal size, win rate, and sales cycle length typically make the cut. Track them weekly or monthly, depending on the sales cycle.
+Tools like HubSpot Sales Hub make this tracking easier by letting teams build custom reporting dashboards that visualize deal velocity, pipeline value, and conversion rates in real time. When key metrics drop below targets, managers can spot the issue and intervene before it compounds.
+Leading indicators let sales pros course-correct mid-quarter instead of discovering problems at month-end. When pipeline coverage drops below 3x quota, teams can increase prospecting before it impacts closed revenue.
+Step 4: Assess the current situation.
+Run a SWOT analysis on current sales operations. Be specific about strengths to leverage (high-performing segments, repeatable plays), weaknesses to address (skill gaps, process bottlenecks), opportunities to pursue (underserved markets, new buyer personas), and threats to mitigate (competitive pressure, budget constraints).
+This assessment shows where to invest more and where to cut back. It also prevents plans built on optimism rather than documented performance.
+Step 5: Start sales forecasting.
+Project quarterly revenue using historical data and current pipeline coverage. Apply win rates by stage to open opportunities, factor in seasonal patterns, and account for known risks like delayed decisions or competitive displacement.
+Sales forecasting tools like HubSpot Sales Hub automate much of this process by estimating future revenue based on pipeline data and deal stage probabilities. This gives leadership accurate projections without manual spreadsheet work.
+Update forecasts weekly as deals progress. Regular forecasting gives leadership the visibility they need to make hiring, spending, and investment decisions before revenue shortfalls create cash flow problems.
+Step 6: Identify gaps.
+Compare current performance against set targets. Where does actual pipeline coverage fall short of what’s needed? Which segments are underperforming? What skill deficiencies show up repeatedly in lost deals?
+Prioritize gaps by impact and feasibility. A 15% shortfall in enterprise pipeline coverage matters more than a 5% dip in SMB win rates if enterprise deals represent 60% of revenue. Focus on the gaps that, if closed, move you closest to quota.
+Step 7: Ideate new initiatives.
+Turn each prioritized gap into a specific initiative with a clear outcome. If the enterprise pipeline is 40% below target, the initiative might be: “Launch ABM program targeting 50 named accounts in financial services, generating 20 qualified opportunities by Q2.”
+Make initiatives concrete enough that teams know exactly what to execute. Vague goals like “improve prospecting” don’t drive action. Specific programs like “implement daily prospecting blocks from 8 to 10 a.m. with manager accountability” do.
+Step 8: Involve stakeholders.
+Sales plans fail when they’re built in isolation. Bring in marketing to align on lead generation targets and campaign timing. Loop in customer success to coordinate on expansion plays. Get finance involved early to validate revenue assumptions and budget requests.
+Cross-functional input catches blind spots before they become problems. Marketing might flag that the Q1 pipeline target assumes lead volumes that won’t materialize until their new campaign launches in Q2. Better to know that during planning than during execution.
+Step 9: Outline action items.
+Assign each initiative a single owner, a completion date, and specific deliverables. “Launch enablement program” becomes “Sarah delivers product positioning training to all AEs by March 15, with certification quiz and recorded sessions for new hires.”
+Break large initiatives into weekly or monthly milestones. This creates accountability checkpoints and makes it easier to spot delays early. When an initiative misses its first milestone, you can intervene before it derails the entire plan.
+Ready to write your own sales plan? Download HubSpot’s Free Sales Plan Template.
+What goes in a sales plan template?
+A typical sales plan includes the following sections:
+- Target customers
+- Revenue targets
+- Strategies and tactics
+- Pricing and promotions
+- Deadlines and DRIs
+- Team structure
+- Resources
+- Market conditions
+Here’s how to develop a sales plan that includes the main components and meets a business’s goals and needs.
+1. Target Customers
+The target customer defines who the organization sells to — the specific buyers most likely to purchase and benefit from the product. It breaks down broad target markets into focused segments based on industry, company size, geography, and the problems they need to solve.
+- Segmenting customers by industry and business size. Not all companies have the exact needs. Identifying the ideal customer (ICP) based on industry and company size allows sales teams to tailor messaging effectively. For example, a SaaS company might target mid-sized ecommerce businesses needing cost-effective fulfillment and shipping optimization while offering an enterprise-tier solution for large retailers with more complex operations.
+- Segmenting customers by pain points and buying motivations. Every customer has unique challenges that drive them to seek unique solutions. Understanding these pain points allows businesses to position their products as the best answer to their problem. For example, a logistics provider targeting ecommerce businesses should highlight solutions for reducing shipping delays and optimizing last-mile delivery, which are major pain points in the industry.
+- Segmenting customers by geographical considerations. Different regions have different consumer behaviors, regulatory requirements, and logistical constraints. Customize the strategy for these variations. For example, a cybersecurity firm may target U.S. financial institutions with compliance-driven security solutions while offering more cost-effective, scalable options for emerging markets in international territories.
+HubSpot’s research shows that 37% of deals fail because buyers don’t see product fit. That’s wasted time on prospects who were never going to convert. Meanwhile, 68% of sales teams report improved lead quality when they work from a clearly defined ICP — because they’re targeting the right people from the start.
+Plans should identify each persona — their responsibilities, daily challenges, and how the product addresses their specific needs. A community college software sale, for example, might involve both administrators (who care about budget) and deans (who care about curriculum impact). Understanding both personas prevents deals from stalling when a key stakeholder feels overlooked.
+Start by asking:
+- What do the best customers look like?
+- What common pain points drive them to seek solutions?
+- How do they typically make purchasing decisions?
+Different products mean different buyer personas. Review and update personas regularly as the solution evolves and product-market fit shifts. Early-stage startups might target small businesses with low prices, then move upmarket to mid-sized companies as the product matures and pricing increases.
+2. Revenue Targets
+Revenue targets establish how much money the organization aims to generate during the planning period. They’re specific financial goals tied to capacity, market opportunity, and historical performance.
+Targets create accountability and allow teams to track progress. Without them, there’s no way to know if the team is on pace or falling behind until it’s too late to correct.
+When defining what “success” looks like, align with what high-performing teams actually track:
+Choose three to five metrics that align with your business model.
+Platforms like HubSpot Sales Hub help teams manage goals and quotas by setting targets for individual reps and tracking progress against benchmarks. Custom deal pipelines visualize where each rep stands, making it easier to identify who needs support before they fall behind.
+Base targets on percentage growth from the previous year, employee capacity, or industry benchmarks adjusted for market position. A marketing agency that generated $1 million last year and aims for 20% growth sets a $1.2 million target. Break annual numbers into quarterly targets, then assign them across teams, territories, and segments. This answers: How much revenue must each segment generate? Which teams own new business versus expansion?
+3. Strategies and Tactics
+Strategies and tactics document the specific actions teams will take to hit revenue targets. This section translates high-level goals into executable plays like:
+- Leverage social media for lead generation. Social media platforms provide a powerful way to connect with potential customers, build brand awareness, and generate leads. For example, a tech startup company can use LinkedIn to share case studies and interact with prospects in industry groups to attract high-quality leads.
+- Ask for referrals from existing clients. Referrals can be one of the most cost-effective ways to acquire new customers. Happy clients are often willing to introduce you to others in their network — especially if incentivized with discounts, exclusive offers, or loyalty perks. A structured referral program can make the process seamless and scalable. For example, a financial advisory firm offering a $100 credit for every successful client referral can encourage satisfied customers to spread the word, resulting in warm, high-converting leads.
+- Maintain relationships with past clients. Just because a deal is closed doesn’t mean the relationship should end. Staying in touch with past clients can lead to repeat business, upselling opportunities, and valuable testimonials. For example, a real estate agent who follows up with past buyers annually — offering home maintenance tips or market updates — can increase repeat transactions and generate referrals.
+- Implement a multi-touch follow-up strategy. Most sales don’t happen after just one touchpoint, so persistence is key. A structured follow-up process — including email sequences, phone calls, and retargeting ads — can keep leads engaged and nudge them toward conversion. For example, a retail brand using automated abandoned cart emails and personalized SMS follow-ups can recover lost sales and increase overall conversion rates.
+Pro tip: HubSpot’s 2024 Sales Trends Report found that 82% of sales pros say AI helps them be more efficient in their role. Consider where AI can automate administrative work like generating outreach copy or scheduling post-deal follow-up, freeing reps to focus on selling.
+4. Pricing and Promotions
+Pricing determines what customers pay for products and services, while promotions create incentives to accelerate purchase decisions. Together, they directly influence both conversion rates and profit margins.
+Price too high, and prospects choose competitors. Price too low, and the business leaves money on the table or signals poor quality. Promotions can overcome purchase hesitation, but only if they’re strategic rather than reactive discounting.
+Common approaches include:
+- Free trials (like Apple TV’s 7-day trial).
+- Limited-time discounts that create urgency (Nike’s Member Days).
+- Membership programs that reward repeat purchases.
+The key is finding the balance between profitability and market appeal. Review pricing against competitors to ensure it aligns with market position without compromising perceived value.
+Plans should document standard pricing and any scheduled changes. For example: “Product B: Increasing price from $40 to $45 on February 2 (anticipating 2% reduction in monthly sales volume).” This helps leadership understand revenue implications before changes go live.
+5. Deadlines and DRIs
+Deadlines and Directly Responsible Individuals (DRIs) assign ownership for every deliverable with specific completion dates. Each initiative gets a single person accountable for execution and a date by which it must be completed.
+Shared responsibility often means no one takes responsibility. When everyone owns something, no one does. DRIs eliminate ambiguity about who’s accountable.
+DRIs might include a Director of Sales Development ensuring prospecting productivity, Account Executives demoing and closing deals, and Account Managers retaining existing accounts. Clear ownership prevents overlapping responsibilities and ensures nothing falls through the cracks.
+Clear ownership prevents overlapping responsibilities and ensures nothing falls through the cracks. It also prevents blame-shifting when targets aren’t met — everyone knows who was responsible for what.
+The structure should make it obvious who handles which accounts, which stages of the sales process, and which customer segments. When a lead comes in, there should be zero ambiguity about who owns it. For example: Joan manages sales development and prospecting strategy; Bobby and Sally demo software and close deals with institutions; Roger and Peggy ensure existing accounts renew.
+6. Team Structure
+Team structure documents who’s on the team and what each person does. It maps reporting relationships and clarifies role boundaries so everyone knows their scope.
+Confusion about roles creates duplicated effort and dropped balls. Smaller organizations need this to prevent overlap. Larger teams need it to maintain clarity as headcount grows and roles specialize.
+The structure should make it obvious who handles which accounts, which stages of the sales process, and which customer segments. When a lead comes in, there should be zero ambiguity about who owns it.
+7. Resources
+Resources list the tools, platforms, and budget teams need to execute the plan. This includes CRM systems, sales enablement platforms, project management tools, and any other technology or support that makes execution possible.
+Teams can’t execute without proper tools. This section ensures everyone has what they need and prevents mid-quarter scrambles when reps realize critical systems are missing.
+CRM systems like HubSpot Sales Hub track interactions and automate follow-up. Sales enablement platforms centralize training materials and case studies. Project management tools like Monday or Asana track deadlines and accountability. HubSpot’s 2025 Sales Trends Report found that 79% of B2B sales professionals who use sales enablement content say it’s important when making a sale. Teams using enablement content are 58% more likely to outperform those who don’t.
+8. Market Conditions
+Market conditions analyze industry trends, competitive dynamics, and shifts in customer behavior. Plans document what’s changing in the market, where competitors are winning, and what threats or opportunities should shape strategy.
+Plans built without market context fail when reality doesn’t match assumptions. Understanding competitive pressure, buyer behavior shifts, and industry trends allows teams to position effectively and adjust when conditions change.
+Monitor industry trends that could impact the business. If selling SaaS, note which vertical-specific software is gaining traction. If selling ads, mention the rise in programmatic mobile advertising. Use tools like Google Trends, industry research reports, and competitive analysis templates to stay current.
+Track where customer interest is declining by analyzing feedback, review platforms, and website engagement metrics. Understanding why certain products lose traction helps teams pivot before sales decline.
+Pro tip: Use HubSpot’s Competitive Analysis Templates to assess how competitors are marketing, pricing, and engaging customers. Then, follow up with HubSpot’s free Sales Plan Template.
+How to Write a Sales Plan
+- Create a mission statement.
+- Define team roles and responsibilities.
+- Create an action plan.
+- Set your budget.
+Step 1: Create a mission statement.
+Start the sales plan with a mission statement — a one or two-sentence explanation of what the business aims to accomplish. This sets the tone for the entire plan and keeps teams aligned on purpose.
+Focus on impact rather than describing what the company does. Avoid jargon. Keep it aspirational yet realistic. A curriculum scheduling software company might write: “Our mission is to empower higher education institutions to maximize their students’ potential by facilitating timely graduation and seamless class scheduling.”
+The mission statement provides direction. Every tactic, target, and resource allocation should connect back to this purpose.
+Step 2: Define team roles and responsibilities.
+Document who’s on the team, what each person does, and when new hires will join. Break down responsibilities clearly to avoid overlaps or gaps. Align roles with sales goals — if expanding into new markets, ensure dedicated team members for prospecting and closing in those territories.
+Plan for future hiring needs. If anticipating growth, indicate when and where additional hires will be needed. For example, Joan (Director of Sales Development) ensures prospecting strategy productivity. Bobby and Sally (Account Executives) demo software and close deals. Roger and Peggy (Account Managers) retain existing accounts. Don, Trudy, Bert, and Betty (Sales Development Representatives) connect with institutions to book demos.
+If planning to hire more reps in Q3 to support expansion, note their roles and expected start dates. This prevents scrambling later when the team realizes they’re understaffed.
+Step 3: Create an action plan.
+The action plan summarizes the game plan for hitting revenue targets. It takes the goals defined earlier and breaks them into specific initiatives with owners, timelines, and milestones.
+Define clear objectives first. Then detail the steps to achieve them with viable timelines. Assign ownership to team members for each task. For example:
+Objective: Increase revenue in East Coast community college vertical by 20% year-over-year.
+- Revamp prospecting strategy via coaching and re-tooled sales messaging (Owner: Joan, Timeline: Q1)
+- Leverage conversation intelligence to shadow calls and identify areas for improvement (Owner: Joan, Timeline: Q1)
+- Revamp administrator and dean buyer personas (Owner: Bobby, Timeline: Q1)
+- Reference historical CRM data for trends in successful and unsuccessful engagements (Owner: Bobby, Timeline: Q1)
+- Implement new training framework for demos (Owner: Sally, Timeline: Q1)
+- Conduct email outreach to inbound leads (Owner: SDR team, Timeline: Q1-Q4)
+Be thorough but concise. Each initiative should have a single owner, a completion date, and specific deliverables. This prevents confusion about accountability and makes it easier to spot delays early.
+Step 4: Set your budget.
+Document the costs associated with hitting sales goals. Compare the sales plan budget to the sales forecast to ensure targets are realistic given available resources.
+Typical budget items include:
+- Pay (salary and commission for current team and planned hires).
+- Sales training (onboarding programs, ongoing coaching, external workshops).
+- Sales tools and resources (CRM licenses, enablement platforms, conversation intelligence).
+- Contest prizes (SPIFs, quarterly incentives).
+- Team bonding activities (off-sites, dinners, celebrations).
+- Travel costs (conferences, customer visits, territory coverage).
+- Food and entertainment (client dinners, prospect meetings).
+Break down costs by category and timeline. If hiring three new AEs in Q3, include their salaries, commissions, and onboarding costs starting in that quarter. If planning a Q2 sales kickoff, budget for venue, travel, and meals. This prevents mid-year surprises when leadership realizes the plan requires more funding than allocated.
+Tips for Creating an Effective Sales Plan
+Sales plans work best when they’re grounded in data, aligned across teams, and informed by frontline input. Here are key practices that strengthen planning quality and execution.
+- Use industry trends to strengthen the plan. When presenting to stakeholders, reference industry trends to explain why specific strategies will work. If the market is shifting toward self-service buying, for example, cite that trend when proposing investments in product demos or interactive content.
+- Specify the technology used to track success. Document which tools will measure progress — CRM systems for pipeline visibility, dashboard software for real-time performance tracking. This creates accountability and shows stakeholders exactly how the team will measure results.
+- Support budget proposals with hard facts and data. Back every budget request with previous performance data and sales forecasts. If requesting three new hires, show how the current team capacity limits growth and project the revenue impact of additional headcount.
+- Create different plans for each team. Business development, inbound sales, outbound sales, and field sales operate differently. Separate plans allow more specific goals and KPIs tailored to each team’s motion and customer segment.
+- Get marketing’s input. Sales and marketing alignment is critical for plan success. Marketing input ensures lead generation efforts, campaign timing, and content strategy support sales targets rather than running on separate tracks.
+- Talk with sales reps to understand their challenges. Plans built without frontline input often fail because they ignore practical constraints. Reps know which processes create friction, which tools slow them down, and which prospects respond to specific messaging. Their input makes plans more realistic and executable.
+- Complete an in-depth competitive analysis. Understanding what competitors do well reveals gaps in current strategy and opportunities to differentiate. Analyze their pricing, messaging, target customers, and sales motions to identify where the company can win.
+Strategic Sales Plan Examples
+Look for more inspiration? Check out the examples of sales plans below.
+1. Sales Plan Template by HubSpot
+HubSpot has created a sales plan template outlining a sales plan’s key elements. This template will walk sales leaders through each of the steps to write a sales plan of their own.
+Our plan allows sales managers to easily communicate to their organization their goals, how they’ll accomplish them, and what support they need.
+2. Sample Sales Plan by BestTemplates
+Organizing strategies and goals with a sales plan will help sales leaders and their teams stick to the targets they’ve set. This nine-page template provides plenty of opportunities to create a concrete action plan.
+It’s super helpful because it includes a goals section before breaking it down into specific areas such as demand generation, implementation, measurement, and evaluation.
+3. 1-Page Sales Plan by BestTemplates
+A sales plan doesn’t need to be hundreds of pages long. Try consolidating the sales plan into a page or two. This template is an excellent example of keeping it short and sweet while still communicating the most important elements of the plan.
+In landscape mode, this strategic sales plan includes a channel, expected costs and sales, distribution strategy, and KPIs in an easy-to-read grid layout.
+4. Strategic Distribution Sales Action Plan Template by Venngage
+With Venngage, sales leaders can choose a design that fits their needs and create their sales plan using Venngage’s interface, which includes custom charts, stock photos, and illustrations. This one tool offers several visually interesting options.
+This particular example is useful because it’s organized by type of sale: in-store, online, and wholesale. This makes it easier to identify each sales channel’s needs and which departments contribute to their success.
+5. Small Business Sales Plan by FitSmallBusiness
+A small business may not have a fully stacked sales team, and that’s totally okay. The owner and employees likely wear many hats, so it’s important to establish a strong sales strategy for the company that future hires can build off of.
+Sometimes, simpler is better. This plan relies on several standard sections to draw up the plan, with boxes that can be quickly filled out using Microsoft Word or Google Docs.
+6. Sales Strategy Diagram from Creately
+For more visual people, creating a diagram for their sales strategy will be immensely helpful. Sales leaders can use Creately to create an attractive sales strategy to share with their team.
+This template is handy because it allows sales pros to map out the key elements of their strategy by categorizing action items and values.
+7. Sales Action Plan by BestTemplates
+A sales action plan lets sales leaders dive into the details of their sales strategy. This one has a minimalistic (but super easy-to-follow) layout.
+This sales action plan is effective because it focuses on the more concrete elements of achieving sales goals, such as positioning and strategic plays. It’s eight pages long and fully customizable in either Word or Pages.
+8. Microsoft Word Sales Plan Template from TemplateLab
+This template breaks down goals into action items, helps sales managers think about how to assign responsibilities, and gets them to commit to specific dates.
+The best part of this template is that it focuses on multiple goals, giving leaders a bird’s-eye view of several initiatives they may be putting together.
+Create a sales plan that grows with your business.
+Sales plans fail when teams write them at the start of the year and never revisit them. A static plan becomes obsolete as markets shift, competitors adjust, and customer needs evolve.
+Effective plans are living documents that teams review and update regularly. Set a cadence — monthly, quarterly, or bi-annually — to assess what’s working, refine weak spots, and adjust for industry shifts. Markets change, customers change, and competitors change. Plans should change, too.
+Regular review creates accountability and prevents surprises. When teams wait until quarter-end to check progress, it’s too late to fix anything. Monthly or quarterly reviews catch problems early — if pipeline coverage drops below three times quota in month one, teams can increase prospecting before it impacts closed revenue.
+The best sales teams don’t create a plan and hope for the best. They build frameworks that guide daily decisions, then refine those frameworks as conditions change. Tools like HubSpot’s Sales Hub can support this process by giving teams real-time visibility into pipeline health, activity levels, and performance metrics — making it easier to spot gaps early and adjust with confidence. Keep reviewing, keep adjusting, and keep the plan relevant to current reality.
+Free Sales Plan Template
+Outline your company's sales strategy in one simple, coherent sales plan.
+- Target Market
+- Prospecting Strategy
+- Budget
+- Goals
+Download Free
+All fields are required.
+Form not available

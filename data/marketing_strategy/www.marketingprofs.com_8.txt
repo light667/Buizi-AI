@@ -1,0 +1,94 @@
+Working across marketing functions such as content, product marketing, and demand gen has confirmed one universal truth: Your CFO isn't allergic to marketing. But they are allergic to the risk of the unknown.
+Winning over your CFO doesn't mean you have to become an expert in finance (although knowing what CAC means helps). It does, however, require you to frame marketing as an investment, not an expense.
+If your CFO's job is to send capital to projects with the highest ROI, your job is to build the case that marketing is the most logical place to send it.
+There are simple ways to achieve this without turning your budget deck into a novel.
+Start Where Your CFO Starts: Capital Allocation
+Most CFOs sort spending into the following buckets.
+- Revenue-generating initiatives: contributors to customer growth, retention, and expansion
+- Overhead initiatives: activities that keep the lights on and ideally get less expensive and faster over time
+Your job is to walk into conversations with your CFO ready to clearly articulate your ask.
+- If your ask relates to overhead initiatives, lead with efficiency and cost control
+- If your ask relates to revenue-generating initiatives, lead with outcomes and ROI
+- If your ask is both, show the path from efficiency to freed-up dollars to growth
+This framework changes the tone of your conversation from prove marketing matters to showing your logical plan.
+Use Metrics Your CFO Understands
+CFOs don't have time to spend looking at dozens of dashboards to try to understand your marketing metrics. Share just a few key metrics with them that connect your marketing work to the overall health of the business.
+- Customer lifetime value (LTV): How much a customer is worth over their lifespan
+- Customer acquisition cost (CAC): Total sales and marketing cost to acquire a new customer
+- Churn and retention: Customers (or dollars) lost over a specific time period
+- Average revenue per account (ARPU): Revenue per customer or account
+And keep in mind: If your metrics can't tie back to one of the buckets your CFO uses to sort spending (i.e., revenue-generating or overhead), they will struggle to fund it.
+Present a Hypothesis, Not a Purchase Request
+The fastest way to lose your CFO's support is simply asking them to sign a purchase request with no context to why it matters.
+The fastest way to win their support is by showing them what you expect to happen from a purchase, and how you'll prove it.
+Your CFO is looking for three things.
+- A hypothesis: What are you trying to accomplish and why?
+- Milestones: How will you measure progress over time—short- and long-term?
+- A measurement plan: What indicators move first and what results will take longer?
+Most marketing pitch decks fail to address these needs. Marketers pitch the things they want to do; CFOs fund outcomes. You need to clearly and concisely package your request.
+Start your proposal with this one-sentence business case: We propose to do [initiative] to achieve [business outcome], providing the benefit of [savings or revenue]. This will cost [monetary ask].
+This approach is simple, specific, and CFO-relatable.
+Shrink Scope to Make It Measurable
+General corporate metrics like "increase ARR" are real, but they're not actionable at the program level. Your CFO can report these metrics to the board, but they can't approve your budget based on them. Not to mention that it's tough to draw a clean line from individual marketing initiatives to those top-line goals.
+Instead, tie your work to subcomponents of these metrics, such as:
+- Reduce CAC for a specific channel
+- Improve retention for a specific segment
+- Increase ARPU via a specific cross-sell motion
+Following are three examples of what this looks like in practice.
+Example 1: Cut CAC by improving third-party review program performance
+Instead of simply defending whether paid review sites are worthy of investment, approach reducing CAC inside your review program by increasing review volume without adding headcount or spend.
+- The tactic: Trigger a review request on a third-party site to net promoter score (NPS) promoters shortly after they respond
+- The result: Review count doubled and CAC for that initiative dropped significantly
+What your CFO likes about this approach:
+- It uses an existing asset, like a current NPS program
+- It has a clear mechanism to get to an outcome (i.e., promoters to reviews to better performance)
+- It measures impact at an initiative level
+Example 2: Improve retention by targeting at-risk "neutral" customers
+Instead of blasting retention campaigns to everyone, use NPS as a segmentation tool and identify "neutral" responders as a higher-risk churn cohort. Then, run targeted educational and value-awareness campaigns designed specifically for this group.
+- Short-term metrics: Increase NPS scores and turn neutral NPS responders into promoters
+- Long-term metric: Retention
+What your CFO likes about this approach:
+- The cohort-based strategy yields a more focused outcome
+- It addresses leading indicators plus lagging outcomes
+- There are clear timeline expectations for outcomes
+Example 3: Increase ARPU through cross-selling or upselling to existing customers
+Target customers who don't have an add-on product but are a good fit for one. Promote targeted webinars and content to good-fit customers, and measure impact through purchase rate and revenue lift in that segment.
+What your CFO likes about this approach:
+- Expansion is typically cheaper than acquisition
+- It targets a clear segment for clear action that results in clear outcomes
+- Results are expressed in customers and revenue—metrics that tie directly to business needs
+Present Options, Not Just Solutions
+When your CFO asks for options, that doesn't equate to simply creating more slides in a pitch deck. What they're asking for are fully vetted options that will help them make decisions quickly.
+Show your CFO you've done your homework. If you're recommending the most expensive solution, prove why you need it with arguments such as:
+- We evaluated three platforms...
+- These two options were cheaper but failed on X and Y...
+- This option fits because it supports our workflow and reduces redundant tools
+Offer a crawl–walk–run path to success. Instead of asking for a hefty annual monetary commitment, propose stages.
+- Start with a pilot program to prove a milestone, then ask to expand funding later
+- Recommend a smaller initial deployment with a clear ramp-up plan
+Starting with a smaller ask makes approval easier because it lowers the perceived risk—and CFOs are professional risk managers.
+Take Accountability and Be Transparent
+Not every initiative is going to work, and CFOs understand that. What they can't work with is sudden surprises or silence. If a program is underperforming, make sure you're regularly sharing updates on what you're learning and your planned next steps.
+Here are some CFO-friendly talking points for when initiatives aren't going as planned.
+- We're behind on milestone X. Here's what early indicators show.
+- Our plan is to keep running the campaign because we're seeing early success indicators in Y.
+- Our plan is to dial down our spend on the campaign and reallocate budget to Z.
+- Here's what we'll adjust and measure next.
+Building a habit of taking accountability and sharing transparency into your projects builds trust faster than any big win story.
+Make a Friend in Finance
+Build relationships with your finance team. Becoming familiar with what matters to them—and why—will help you focus on the right metrics and avoid surprises later.
+When you're able to approach financial discussions by saying, "Here's the data we have, here's what we think it indicates, and here's what we need help validating," you're treating finance like a partner—not a gatekeeper.
+Your Checklist to Win Over Your CFO
+Before you pitch your next budget request, use this checklist to make sure you're prepared.
+- Create a one-sentence business case that pitches your initiative, outcome expected, benefit to the business, and cost to achieve it.
+- Create a clear hypothesis that states what you believe will happen and why.
+- Address the metrics your CFO cares about (LTV, CAC, churn/retention, ARPU).
+- Lay out your milestones over time (addressing leading and lagging indicators)
+- Present your options (covering cost diligence and your crawl/walk/run plan).
+- Show you have a clear communication plan to report progress and course correct as needed.
+You don't win over your CFO with marketing jargon; you win them over with honesty and being well-prepared. Be clear on what you're doing, why it matters, how you'll measure progress, and what you'll do if it doesn't work.
+When you consistently show up for your CFO, budget conversations stop being about whether marketing deserves investment and start being about how fast you can scale what's working.
+More Resources on Marketing Strategy
+From Cost Center to Growth Engine: A Modern Blueprint for Annual Marketing Planning
+Understanding the Human Side of B2B Decision-Making
+The 4Ps Are a No-Brainer, But the 4Ms Are Crucial to Executing Marketing Plans

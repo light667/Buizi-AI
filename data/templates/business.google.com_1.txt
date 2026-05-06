@@ -1,0 +1,29 @@
+Laura Mae Martin est Executive Productivity Advisor chez Google. Depuis six ans, elle dirige le programme de productivité de l’entreprise et forme des milliers de collaborateurs.
+Ctrl+C / Ctrl+V (copier-coller). Il s’agit sans doute de l’une des premières leçons d’informatique que vous ayez reçues. À lui seul, ce raccourci a épargné des millions d’heures de travail à l’humanité.
+Google Workspace a considérablement évolué depuis l’époque de ce simple raccourci clavier. La suite d’outils intègre désormais des centaines de nouvelles options et fonctions. La récente arrivée de Gemini au sein de cet écosystème offre une aide de premier plan et devient un véritable catalyseur pour votre efficacité quotidienne.
+Voici ma sélection de quatre outils de travail parmi mes préférés. Ces derniers ont déjà prouvé leur efficacité auprès de milliers de collaborateurs chez Google. À la fois accessibles et simples à utiliser, ces solutions pourraient bien transformer vos méthodes de travail.
+1. Rédiger et envoyer un e-mail directement depuis Google Docs
+Cette astuce est idéale si vous souhaitez profiter de la mise en forme de Google Docs dans un e-mail, ou si vous devez rédiger un message détaillé à plusieurs et recueillir des commentaires et suggestions avant l’envoi.
+Plus besoin de faire de copier-coller. Vous pouvez utiliser le modèle d’e-mail intégré à Docs qui s’exporte directement vers Gmail.
+Comment ça marche ? Dans un document Google Docs, tapez l’arobase (@). Dans le menu déroulant qui s’affiche, choisissez « Brouillon d’e-mail ». Un modèle apparaît alors, vous permettant de saisir les destinataires (tapez @ pour rechercher des contacts) et le contenu du message. Une fois terminé, cliquez sur l’icône de l’enveloppe (le logo Gmail) dans le coin supérieur gauche. Un brouillon sera automatiquement généré dans Gmail à partir de votre document, prêt à être envoyé.
+Regarder la vidéo
+2. Être alerté dès qu’un document stratégique est modifié
+Imaginez que vous êtes sur le point de finaliser un document irréprochable. Vous vous apprêtez à le diffuser auprès d’un large groupe de collaborateurs disposant de droits de modification. L’idée de devoir piloter manuellement l’ensemble des révisions et commentaires à venir peut s’avérer décourageante.
+Grâce à l’historique des versions, vous pouvez voir qui a modifié quoi et identifier exactement qui a changé des parties spécifiques d’un paragraphe. Mais vous pouvez aussi recevoir un e-mail dès que quelqu’un modifie le document.
+Comment ça marche ? Dans un document Google Docs dont vous êtes propriétaire, cliquez sur Outils, puis sur Paramètres de notification, et cochez « Contenu ajouté ou supprimé ». Cliquez ensuite sur OK. Vous recevrez un e-mail dès qu’une personne modifiera le contenu.
+Regarder la vidéo
+3. Organiser les onglets Chrome
+Si vous êtes comme moi, votre navigateur Chrome ressemble peut-être au sol de la chambre d’un adolescent. Il est jonché d’onglets pour l’inspiration, de documents de référence sur lesquels vous travaillez, et de choses que vous vous êtes promis de lire quand vous aurez le temps (spoiler : je ne les ai toujours pas lues).
+Du moins, c’est la vision que j’avais auparavant en ouvrant mon navigateur. Depuis, il a eu droit à un traitement Feng Shui : tous mes onglets ouverts sont soigneusement regroupés, étiquetés et accessibles via une recherche dans la barre d’adresse.
+Comment ça marche ? Dans Chrome, faites un clic droit sur l’onglet que vous souhaitez organiser. De là, choisissez « Ajouter l’onglet à un nouveau groupe » (ou à un groupe existant). Une fois vos onglets regroupés, vous pouvez changer la couleur du groupe, cliquer sur son nom pour développer ou réduire la liste des onglets, et même déplacer un groupe entier vers sa propre fenêtre. Vous pouvez également taper @onglets dans la barre d’adresse pour rechercher un onglet ouvert.
+Regarder la vidéo
+4. Laisser Gemini ajouter des événements à votre agenda
+J’adore cette astuce, car je l’utilise aussi bien au travail qu’à la maison. Au bureau, on peut me donner un planning avec les jalons clés d’un projet. À la maison, je peux recevoir un PDF avec le calendrier scolaire ou les dates de l’année prochaine pour mon club de lecture.
+Je peux importer le PDF dans l’application Gemini et lui demander de le convertir au bon format pour ensuite l’intégrer directement à mon Google Agenda.
+Comment ça marche ? Rendez-vous sur Gemini et saisissez le prompt suivant, en adaptant les détails à vos besoins :
+« Hey Gemini, voici un PDF avec les échéances clés de mon projet [importez le fichier]. Crée une feuille Google Sheets avec toutes les dates, en utilisant le format décrit dans cet article pour les fichiers .csv (https://support.google.com/calendar/answer/37118?hl=fr&co=GENIE.Platform%3DDesktop&sjid=11558981930340494449-EU#zippy=%2Ccreate-or-edit-a-csv-file) que je peux importer dans l’agenda. »
+Une fois le texte généré, demandez à Gemini de les importer à votre Google Agenda.
+Regarder la vidéo
+Ce ne sont là que quelques idées pour optimiser votre productivité. Il existe une multitude d’autres fonctionnalités incroyables intégrées aux applications Google que vous utilisez sans doute déjà. Elles peuvent vous aider à reprendre la main sur votre journée de travail, à gagner du temps et à vous concentrer sur les aspects les plus importants de votre métier.
+Social Module
+Partager

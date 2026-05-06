@@ -1,0 +1,39 @@
+Poor data quality costs organizations an average of $12.9 million annually.
+Yet most enterprises continue to operate with duplicate rates of 20% to 30%, treating data quality as a technical problem rather than a strategic imperative. As we look ahead, the key question for revenue leaders isn't "How do we clean our CRM?" but "How do we build the foundations for data to drive sustainable growth at scale?"
+Following are three priorities forward-thinking CxOs can adopt to transform their approach to data quality.
+1. Build the Infrastructure for Trusted Revenue Data
+For customer relationship management (CRM) tools to deliver real value, leaders need to build the foundations for the entire revenue organization to use it confidently.
+The numbers tell a stark story. Plauti's analysis of 12 billion Salesforce records found 45% were duplicates across organizations. That rate jumps to 80% for API integrations (e.g., marketing automation, web forms, sales engagement tools). One healthcare organization discovered a 22% duplicate rate before implementing formal data management.
+This isn't a cleanup project. It's an architectural challenge.
+The Missing Infrastructure Layer
+Most revenue architectures have a fundamental gap. On one side: dozens of data sources (e.g., LinkedIn, AWS, webinar platforms, enrichment providers). On the other: revenue systems, AI infrastructure, operational tools, and marketing automation.
+In between? Nothing. No validation layer. No standardization engine. No deduplication firewall. Data flows directly from acquisition sources into operational systems, carrying duplicates, inconsistencies, and errors with it.
+Every integration amplifies the problem. Marketing automation creates records. Web forms create records. Event software creates records. Sales engagement platforms create records. None match perfectly because email addresses have typos, company names have variations, and contact information changes.
+The most successful leaders are addressing this gap by building the missing layer—treating data infrastructure as a strategic asset with reusable validation rules, standardized enrichment processes, and governance frameworks that evolve as fast as the integrations they manage.
+This starts with leading by example. When revenue leaders model data discipline (e.g., reviewing pipeline hygiene metrics, holding teams accountable for data quality SLAs, investing in prevention over correction), the rest of the organization follows.
+The next step is building the systems that make enterprise-wide data quality both resilient and repeatable.
+- Modern data architectures with real-time validation at the point of entry
+- Fuzzy matching algorithms that catch duplicates before they hit the database
+- Automated enrichment that standardizes company names and domains across every integration
+SiriusDecisions maps the cost curve clearly as $1 to verify a record at entry, $10 to cleanse it later, $100 if you do nothing.
+As data becomes embedded in critical revenue decisions, fragility isn't an option. These shifts aren't easy, but they're essential to creating sustainable impact.
+2. Focus as a Performance Multiplier
+While most organizations have added numerous data tools and integrations, we're still at the beginning of understanding their full impact on revenue performance. The next phase will be about shifting organizational behaviors, turning data awareness into data conviction and driving adoption to unlock real value.
+Focus is the key. Moving from a long list of data quality intentions and isolated deduplication projects to concentrated effort in a small set of areas where you can fundamentally reshape how teams operate.
+Consider what duplicates actually cost. Sales reps waste 27% of their time dealing with bad data, equalling 550 hours or $32,000 per rep annually. Marketing sends the same campaign five times to one prospect. Three sales reps call the same account, none knowing the others exist. Pipeline reporting shows $10 million, but $2 million is the same opportunity counted multiple times.
+The single customer view—the foundation of every ABM strategy, every customer journey map, and every retention model—doesn't exist. Organizations are making million-dollar decisions on fiction.
+We're at a point where impact depends on taking dozens, hundreds, or even thousands of people and redefining their relationship with data. Taking sales teams from ignoring the CRM tool to trusting it. Moving marketing from batch-and-blast to precision engagement. Shifting revenue operations from reporting what happened to predicting what's next.
+One financial services firm implemented validation rules that caught duplicates at creation. Their duplicate rate dropped from 28% to 3% in six months. More importantly, their sales team started trusting the CRM tool again. Pipeline accuracy improved by 40%. Territory planning became data-driven instead of political.
+This is the resolution worth making: commit deeply to what matters most. Go deep instead of wide.
+3. Make Data Stewardship a Shared Mindset
+We're operating in a moment where data touches every revenue decision. While that brings complexity, it also offers enormous potential for growth—and each revenue leader has a role to play.
+A key part of that responsibility is being genuinely open to cross-functional ownership of data quality. The question of "who owns data quality" has traditionally been a barrier. Is it marketing because they run the forms? Sales ops because they manage the CRM tool? IT because they control integrations?
+The answer is all of them. And the mindset we need is non-hierarchical, open to learning from anyone, and willing to stretch beyond traditional functional boundaries.
+Timeless principles like clear ownership, accountability, and measurement matter more than ever. Organizations that solve data quality establish executive sponsorship, cross-functional governance, and metrics everyone cares about. Duplicate rates become a KPI revenue leaders track alongside pipeline and conversion rates.
+Data Quality Is a Foundational Capability for Revenue Growth
+The hard skills of data quality (e.g., validation rules, matching algorithms, enrichment workflows) will continue to evolve. But those who choose to make data stewardship a shared value will be the ones who thrive.
+Because at the end of the day, you're not managing data. You're managing the decisions data enables—territory assignments, compensation plans, product roadmaps, and market expansion. All built on a foundation that includes 20% to 30% duplicates for most organizations.
+Poor data quality costs the U.S. economy $3.1 trillion annually. MIT Sloan research shows organizations lose 15% to 25% of revenue to it. Each duplicate costs $5 to $20 just in clerical time to fix.
+But when addressed systematically, the returns are immediate. Plauti's research shows enterprises that tackled duplicates recovered $56 million in savings and 1.2 million hours in lost productivity.
+The technology exists. The business case is clear. What's required is the resolution to treat data quality not as a technical side project but as a foundational capability for revenue growth.
+That's the commitment worth making in 2026.

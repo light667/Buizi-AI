@@ -1,0 +1,51 @@
+In many ways, the advertising landscape is unrecognizable from what it was at the turn of the century. The internet was in its infancy. Display was a press ad, video was TV, digital audio was your Discman, and national advertising was the prerogative of big business.
+That changed, of course. But successful advertising has always been bound by the dynamics of the market to try to influence how humans make decisions.
+Since the turn of the century, there have been several core distractions. Seismic though its impact will be, AI is just one of them. The most fundamental was the advent of digital media—automated, self-service buying mechanics that gave advertisers the illusion of control. Not just over inputs, budgets, media, and assets, but over outcomes. The ROI. The ROAS.
+This is an illusion because those digital outcomes were never entirely real. The platform-reported returns rarely bore reflection on real-world financial returns. Advertising was measured against false ratios, completely ignoring a century of evidence showing that the effects of advertising are relatively modest and distributed over long periods.
+Our desire for immediate returns and instant gratification, satisfied by digital dashboards, masked our understanding of how humans actually make choices. Which is particularly evident in B2B.
+So, how can we invest ad dollars more effectively in 2026? If the solution to your brand's biggest challenge begins with a discussion around a specific channel, the game is up before you spend a dollar. Enhanced advertising outcomes must begin upstream, with a deeper understanding of the market and better objective setting.
+The Ceiling and Floor of Brand Growth
+Most markets are relatively stationary where market share moves slowly over time. Often, a brand's current market share dictates how much it can spend on advertising, and that budget ultimately sets the ceiling for how much the brand can feasibly grow.
+Decades of empirical research shows that to make meaningful gains, your share of voice must be greater than your share of market.
+Setting objectives that go beyond what a budget can feasibly achieve—or neglecting the baseline rate of category growth—dooms a campaign from the start. While a budget sets the ceiling on what a brand might achieve, how you spend it sets the floor.
+This is the trap many advertisers fell into with the advent of digital media. The desperate need for efficiency and immediate returns fueled a mass migration of ad dollars. Budgets shifted away from media that reached large volumes of an ideal customer profile (ICP) and captured enough attention to build memory.
+Instead, budgets focused on hyper-targeted, intent-based digital touchpoints that self-reported massive returns. Advertisers started spending millions of dollars on search, watching their dashboards light up with enormous ROAS while their actual market share eroded.
+This is not a failure of advertising; it is a failure to understand market dynamics.
+The 2% Gamble
+Brands suffocate share of voice by hyper-targeting and obsessing over search intent. This restricts visibility to a very narrow sliver of their addressable market—often the roughly 5% who are actively in a buying moment.
+But surely targeting active buyers is a more efficient use of precious ad dollars? Wrong.
+Think about the reality of most B2B categories.
+- In 2022, Harvard Business Review found that around 40% (sometimes more) of all buying decisions result in no decision at all (the status quo wins).
+- Of the remaining 60% of people who do buy, 90% of purchases are awarded to a vendor that was already on that company's shortlist. The buyer already knew who they wanted to buy from when they started searching.
+- This leaves roughly 6 in every 100 buying decisions winnable by the time you capture an intent signal.
+Now, imagine more than one brand is discovered during that active buying window. Let's say a buyer looks at their shortlist plus three new brands discovered during the decision-making process. Your chances of winning the deal are now 2% or lower.
+Why does this matter? Because the moment your ad investment over-focuses on immediate returns and narrows its targeting to those actively in-market, you might think you're being efficient. But gambling the vast majority of your budget on a 2% chance of winning is a terrible bet.
+Quick to Mind, Easy to Find
+Failing to understand how advertising works leads to this trap of hyper-targeting. Advertising is less about immediate persuasion and more about building durable memory. It increases the probability that you appear on a shortlist and reinforces that memory over time.
+You need to speak to people who aren't in your market today, speak to them often, and ensure you're easily remembered when they are ready to buy.
+The playbook for this varies by brand size, category, and price point, but brands that survive and thrive do so by mastering two concepts: being Quick to Mind and Easy to Find.
+To be Quick to Mind:
+- Maximize reach across your addressable market within the bounds of your budget. For newer brands, this might mean identifying a "defensible niche" via a specific geography or segment and maximizing reach there before expanding.
+- Lean on emotional benefits over rational product features. The brain is an ad blocker. If your audience is out of market, rational proof points might not resonate.
+- Invest in high-attention environments. In an ecosystem where impressions are served but rarely seen, building memory requires an acceptance of higher CPMs to secure media placements that actually capture human attention.
+Being Easy to Find is about pricing, physical distribution, and digital availability. For paid media, you must:
+- Reduce friction between ad exposure and the point of sale.
+- Be unmistakably you, using distinctive brand assets and consistent nudges so your brand is instantly recognizable.
+- Be present and relevant in the actual buying moment.
+The Pareto Myth in B2B
+The concept of "reach" has become unfashionable in B2B, so it needs some qualification.
+Reach does not mean untethered spend targeting everyone and their dog. It means sophisticated mass communication focused on all category buyers—both in and out of market.
+There is a resurgent trope among ad tech vendors and consultants that 80% of a brand's sales are driven by 20% of its customers, leading to the advice that you should only focus on your heaviest buyers.
+This 80/20 Pareto law is a myth in most categories.
+- The reality is closer to 50/20 where roughly 50% of a brand's sales are driven by the heaviest buyers.
+- Heavy buyers are a small pool, so focusing only on them is risky. All other buyers drive the largest aggregate sales volume. How many brands can safely ignore 50% of sales revenue? And while enterprise "whales" do exist, securing them is typically the job of an enterprise sales team, not—primarily, at least—your advertising budget.
+- Heavy buyers are not a stable asset. Your heaviest buyers this year will likely buy less next year. If you invest all your marketing effort in them, your pipeline will dry up.
+The True Cost of Invisibility
+So, how can we invest ad dollars more effectively in 2026?
+It depends on your unique circumstances. But it begins with the understanding that you must be Quick to Mind and Easy to Find to reach the ceiling of your budget's potential.
+The risk of ignoring this? A sky-high customer acquisition cost is the ultimate price you pay for a brand people do not remember and cannot easily find. Conversely, high lifetime value is the reward you earn when memory and accessibility endure.
+More Resources on B2B Advertising
+How Data and Creativity Are Reuniting to Transform Digital Ads
+The New Era of Retargeting Will Help B2B Brands Thrive
+From Flash to Function: How AI Is Powering PR and B2B Marketing Operations
+How AI-Driven Creative Is Redefining B2B Advertising Performance
